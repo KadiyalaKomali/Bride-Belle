@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bride Belle</string>
+    <string name="groom">groom</string>
+    <string-array name="Outfit">
+        <item>Groom Outfit</item>
+        <item>Sherwani</item>
+        <item>Wedding Suits / Tuxes</item>
+        <item>Sherwani On Rent </item>
+    </string-array>
+    <string-array name="Accessories">
+        <item>Accessories</item>
+    </string-array>
+    <string-array name="Footwear">
+        <item>Sandals</item>
+        <item>Shoes</item>
+        <item>FlipFlops</item>
+        <item>Floaters</item>
+    </string-array>
+
+</resources>

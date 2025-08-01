@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/groombridse"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/groombridse"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BridalBelleApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".activity.FinishActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.PaymentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.GroomDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.BrideDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.GroomOutfitsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.BrideMehandhi"
+            android:exported="false" />
+        <activity
+            android:name=".activity.BrideOutfitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.GroomAccessories"
+            android:exported="false" />
+        <activity
+            android:name=".activity.WhoomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.DateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.WeddingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
