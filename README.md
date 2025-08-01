@@ -21,5 +21,12 @@ Bride Belle is a shopping app tailored for brides and grooms to find accessories
 - Admin dashboard
 - Order tracking and payment integration
 
+  ## 📲 How to Run This Project
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/KadiyalaKomali/bride-belle.git
+
+
 ---
 Made with ❤️ by Komali Kadiyala
