@@ -1,24 +1,25 @@
-# Bride Belle 👰🤵
+# 👰🤵 Bride Belle - Android App
 
-An Android app developed for bridal and groom accessories shopping.
+Bride Belle is a shopping app tailored for brides and grooms to find accessories and essentials with ease.
 
-## 🛠 Technologies
+## 🚀 Features
+- Bridal & Groom product catalog
+- User login/register
+- Shopping cart (basic)
+- Firebase backend integration
+
+## 🛠 Technologies Used
 - Java (Android)
-- Firebase (Authentication/Database)
-- XML for UI
+- XML
+- Firebase Realtime DB / Auth
 
 ## 🏆 Achievements
-- 🥇 First Prize @ KPCode4u Android Hackathon
+- 🥇 First Prize in KPCode4U Android Hackathon
 
-## 💡 Features
-- Product listing
-- User Authentication
-- Shopping Cart
-- Order tracking (future)
-
-## 🎯 Screenshots
-*Add images from emulator or device*
+## 📱 Future Scope
+- Flutter-based version
+- Admin dashboard
+- Order tracking and payment integration
 
 ---
-
-Want to deploy a Flutter version or connect Firebase Cloud? Stay tuned!
+Made with ❤️ by Komali Kadiyala
