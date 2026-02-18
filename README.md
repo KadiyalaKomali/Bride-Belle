@@ -3,17 +3,30 @@
 Bride Belle is a shopping app tailored for brides and grooms to find accessories and essentials with ease.
 
 ##  Features
-1. Splash Screen
-2. Login Page
-3. Home Page
-4. Product Browsing
-5. Cart Page
-6. Order Confirmation
-7. Profile and Order History
+1️⃣ Multi-Screen User Flow Architecture 
+1.Splash Screen
+2.Login / Signup
+3.Conditional onboarding flow:
+  * Wedding city selection
+  * Wedding date input
+  * Bride / Groom selection
+4.Role-based navigation (Bride flow / Groom flow)
+5.Category-based product listing
+6.UPI Payment screen
+7.Thank You confirmation screen
+
+❌ No input validation
+❌ No authentication logic
+❌ No backend integration
+❌ No database
+❌ No real payment API
+
+Currently it is a UI + navigation prototype, not a production e-commerce app.
 
 ##  Technologies Used
-- Java (Android)
-- XML
+Java (Android)
+XML layouts
+Activity-based navigation
 
 ##  Future Scope
 1. Admin dashboard
