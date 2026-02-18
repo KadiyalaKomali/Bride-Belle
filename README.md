@@ -16,11 +16,11 @@ Bride Belle is a shopping app tailored for brides and grooms to find accessories
 - XML
 
 ##  Future Scope
-- Flutter-based version
 1. Admin dashboard
 2. Order tracking and payment integration
 3. Integrate AI-based recommendations.
 4. Add AR features for virtual try-ons.
 5. Implement multi-language support.
 6. Enable live chat support.
+7. Flutter-based version
 
