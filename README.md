@@ -7,9 +7,9 @@ Multi-Screen User Flow Architecture
 1.Splash Screen
 2.Login / Signup
 3.Conditional onboarding flow:
-  * Wedding city selection
-  * Wedding date input
-  * Bride / Groom selection
+    Wedding city selection
+    Wedding date input
+    Bride / Groom selection
 4.Role-based navigation (Bride flow / Groom flow)
 5.Category-based product listing
 6.UPI Payment screen
