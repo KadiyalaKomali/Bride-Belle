@@ -4,6 +4,7 @@ Bride Belle is a shopping app tailored for brides and grooms to find accessories
 
 ##  Features
 Multi-Screen User Flow Architecture 
+
 1.Splash Screen
 2.Login / Signup
 3.Conditional onboarding flow:
