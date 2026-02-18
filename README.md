@@ -29,11 +29,11 @@ XML layouts
 Activity-based navigation
 
 ##  Future Scope
-1. Admin dashboard
-2. Order tracking and payment integration
-3. Integrate AI-based recommendations.
-4. Add AR features for virtual try-ons.
-5. Implement multi-language support.
-6. Enable live chat support.
-7. Flutter-based version
-
+1️⃣Firebase Authentication
+2️⃣Input validation
+3️⃣ Firebase Realtime Database / Firestore
+4️⃣ Real UPI API integration
+5️⃣ Cart functionality
+6️⃣ RecyclerView for product listing
+7️⃣ MVVM architecture
+8️⃣ API-based product fetching
